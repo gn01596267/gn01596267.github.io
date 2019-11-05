@@ -1,0 +1,956 @@
+
+
+/*CSS Media Queries*/
+@media(min-width:1600px){
+	.video_slider, .blog_slider{
+        max-width: 1500px;
+    }
+    .blg_user{
+        max-width: 250px;
+        padding: 18px 0;
+    }
+    .all_hdng h4{
+        font-size:48px;
+    }
+    .dtls_slider_area{
+        /* padding: 50px 120px; */
+        padding: 50px 60px;
+    }
+    .txt_itm h6 {
+        font-size: 44px;
+    }
+	.txt_slider .slick-arrow {
+    	bottom: 0;
+	}
+}
+@media (min-width: 1850px){
+
+}
+@media(min-width:1400px){
+    .txt_slider .slick-arrow{
+		bottom:0;
+	}
+}
+@media(max-width:1365px){
+    .txt_slider .slick-arrow {
+		bottom: 0;
+	}
+}
+
+@media (max-width: 1199px) {
+	.header_outer .navbar-nav li {
+		margin-right: 15px;
+	}
+	 .header_outer .navbar-nav li a {
+		font-size: 12px;
+	}
+	.text_content h3 {
+    	font-size: 30px;
+	}
+	.text_content h2 {
+		font-size: 55px;
+		line-height: 60px;
+	}
+	.text_content h5 {
+    	font-size: 20px;
+	}
+	.numbr_hdng h1 {
+		font-size: 170px;
+	}
+	.hdng_contentArea {
+		padding: 25px 0 0;
+	}
+	.agenda_faqArea {
+		padding: 55px 0;
+	}
+	.hdng_pnnl a {
+		font-size: 22px;
+	}
+	.agenda_lftPnnl h3 {
+    	font-size: 25px;
+	}
+	.agenda_row {
+		margin-bottom: 35px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.hard_area {
+		padding: 55px 0;
+	}
+	.days_area {
+		padding: 45px 0;
+	}
+	.txt_itm h6 {
+		font-size: 28px;
+		line-height: 40px;
+		margin-bottom: 10px;
+	}
+	.txt_itm h5 {
+		font-size: 22px;
+		margin-bottom: 10px;
+	}
+	.dtls_slider_area {
+		padding: 25px 20px;
+		max-width: 655px;
+	}
+	.txt_slider .slick-arrow {
+		width: 60px;
+		height: 60px;
+	}
+	.all_hdng h2 {
+    	font-size: 85px;
+	}
+	.all_hdng h4 {
+    	font-size: 35px;
+	}
+	.all_slider {
+    	padding: 50px 65px;
+	}
+	.txt_dtls {
+    	padding: 12px 10px;
+	}
+	.txt_dtls h6 {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.txt_dtls p {
+    	font-size: 14px;
+	}
+	.our_partnership {
+		padding: 80px 0 30px;
+	}
+	.client_holder_main .basic_btn {
+		bottom: -60px;
+	}
+	.blg_user {
+		max-width: 350px;
+	}
+}
+
+@media (max-width: 991px) {
+	.navbar-toggler-icon{
+		padding-top: 8px;
+	}
+	.navbar-toggler-icon em{
+		width: 30px;
+		height: 2px;
+		background-color: #003da5;
+		display: block;
+		margin-bottom: 5px;
+	}
+	.navbar-toggler-icon em:last-child{
+		margin-bottom: 0px;
+	}
+	.navbar-toggler{
+		padding: 0;
+		width: 50px;
+		height: 50px;
+		background-color: #fff;
+		border-radius: 50%;
+	}
+	.header_outer .navbar-nav li {
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.navbar-collapse{
+		background: rgba(0, 61, 165, 0.9);
+	}
+	.navbar-nav{
+		padding: 20px;
+	}
+	.time_box{
+		margin-bottom: 22px;
+		height: 70px;
+		font-size: 32px;
+		width: 18%;
+		margin-right: 10px;
+	}
+	.text_content h3 {
+		font-size: 22px;
+	}
+	.text_content h2 {
+		font-size: 32px;
+		line-height: 32px;
+	}
+	.text_content {
+		margin-bottom: 10px;
+	}
+	.hdng_contentArea {
+		padding: 15px 0 0;
+	}
+	.numbr_hdng {
+		min-width: auto;
+	}
+	.numbr_hdng h1 {
+		font-size: 135px;
+	}
+	.text_content h5 {
+		font-size: 15px;
+	}
+	.basic_btn {
+		line-height: 45px;
+		min-width: 230px;
+	}
+	.main_container {
+    	padding: 0px 40px;
+	}
+	.client_pic {
+		height: 150px;
+		width: 150px;
+		margin: 0 auto 10px;
+	}
+	.speaker_outer .col-lg-3 {
+		margin-bottom: 25px;
+	}
+	.sptep_row {
+		max-width: 100%;
+	}
+	.days_area {
+		padding: 20px 0;
+	}
+	.days_area h2 {
+		font-size: 35px;
+		margin-bottom: 0;
+	}
+	.days_area h5 {
+    	font-size: 25px;
+	}
+	.agenda_faqArea {
+		padding: 25px 0;
+	}
+	.agenda_lftPnnl h3 {
+		font-size: 20px;
+	}
+	.hdng_pnnl a {
+		font-size: 18px;
+	}
+	.agenda_row {
+		margin-bottom: 20px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.hard_area {
+		padding: 40px 0;
+	}
+	.txt_itm h6 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.txt_itm h5 {
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+	.txt_itm p {
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.txt_slider .slick-arrow {
+		width: 40px;
+		height: 40px;
+	}
+	.all_slider {
+		padding: 20px 50px;
+	}
+	.play_area a {
+		width: 45px;
+		height: 45px;
+		font-size: 10px;
+	}
+	.video_slider .slick-arrow, .blog_slider .slick-arrow{
+		right: -55px;
+	}
+	.video_slider .slick-arrow.slick-prev, .blog_slider .slick-arrow.slick-prev {
+		left: -55px;
+	}
+	.blg_dtls h6 {
+		font-size: 14px;
+		line-height: 20px;
+		margin-bottom: 5px;
+	}
+	.blg_dtls {
+		padding: 5px 0;
+		min-height: auto;
+	}
+	.blog_slide {
+    	padding: 28px 10px;
+	}
+	.blg_user {
+		max-width: 100%;
+		padding: 5px 0;
+	}
+	.blg_dtls p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.txt_dtls h6 {
+		font-size: 14px;
+		line-height: 18px;
+	}
+	.sptep_row.nav-tabs li .nav-link {
+		height: 40px;
+		width: 40px;
+	}
+	.sptep_row.nav-tabs li .nav-link.active {
+		height: 60px;
+		width: 60px;
+		border: 4px solid #fff;
+	}
+	.subs_box {
+		padding: 0 15px;
+	}
+	.inp_field {
+		width: 69%;
+	}
+	.inp_submt {
+		width: 30%;
+	}
+	.where_to_find {
+		padding: 100px 0 65px;
+	}
+	.venue_details {
+		padding-right: 0;
+		margin-bottom: 20px;
+	}
+	.venue_image {
+		margin-right: 0;
+	}
+	.venue_image img {
+		width: 100%;
+	}
+	.client_icons_outer {
+		padding: 0 5px;
+		margin-bottom: 30px;
+	}
+	.client_icons_holder {
+		margin: 0 -5px;
+	}
+	.txt_slider .slick-arrow{
+		background-size: 10px;
+	}
+	.txt_slider .slick-arrow.slick-prev {
+		left: -85px;
+	}
+	.all_hdng h2 {
+		font-size: 70px;
+	}
+	.all_hdng h4 {
+		font-size: 30px;
+	}
+	.our_partnership {
+		padding: 30px 0;
+	}
+	.client_holder_main .basic_btn {
+		bottom: -55px;
+	}
+}
+
+@media (max-width: 767px) {
+	.header_outer {
+    	padding: 10px 0px;
+	}
+	.number_outerBx{
+		display: block;
+		text-align: center;
+	}
+	.noselect{
+		align-items: center;
+    	justify-content: center;
+	}
+	.caixin_countdown {
+		margin-left: 0;
+		max-width: 100%;
+	}
+	.time_box{
+		margin-bottom: 0;
+		background-color: #052b6b;
+	}
+	.banner_textArea {
+		padding-top: 0;
+	}
+	.hdng_contentArea {
+		padding: 10px 0;
+	}
+	.hdng_contentArea:after{
+		width: 0;
+	}
+	.banner_content {
+    	position: static;
+		background-color: #003da5;
+		transform: translateY(0%);
+	}
+	.numbr_hdng h1 span {
+    	font-size: 30px;
+	}
+	.numbr_hdng h1 {
+		font-size: 130px;
+	}
+	.numbr_hdng {
+		margin-top: 15px;
+	}
+	.text_content h3 {
+		font-size: 20px;
+	}
+	.text_content h2 {
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.text_content h5 {
+		font-size: 15px;
+		margin-top: 10px;
+		text-align: center;
+	}
+	.text_content {
+		margin-bottom: 10px;
+	}
+	.basic_btn {
+		line-height: 45px;
+		min-width: 210px;
+	}
+	.number_text {
+		padding-left: 0;
+	}
+	.main_container {
+		padding: 0px 15px;
+	}
+	.blue_txt {
+		margin-bottom: 5px;
+	}
+	.days_area {
+		padding: 10px 0;
+	}
+	.days_area h2 {
+    	font-size: 28px;
+	}
+	.days_area h5 {
+		font-size: 20px;
+	}
+	.agenda_faqArea {
+		padding: 15px 0;
+	}
+	.faq_area {
+    	max-width: 100%;
+	}
+	.agenda_row {
+		margin-bottom: 15px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.agenda_lftPnnl h3 {
+		font-size: 18px;
+	}
+	.hdng_pnnl a {
+		font-size: 16px;
+		line-height: 30px;
+	}
+	.hard_outr{
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+	}
+	.dtls_slider_area {
+		padding: 15px 10px;
+		max-width: 100%;
+		-webkit-box-ordinal-group: 3;
+		-ms-flex-order: 2;
+		order: 2;
+	}
+	.new_img_sliders {
+		width: 100%;
+	}
+	.img_area {
+		width: 100%;
+	}
+	.txt_slider .slick-arrow {
+		bottom: -20px;
+	}
+	.txt_slider .slick-arrow.slick-prev {
+    	left: 40%;
+	}
+	.txt_slider .slick-arrow.slick-next {
+    	right: 40%;
+		left: inherit;
+	}
+	.video_slider .slick-track, .blog_slider .slick-track{
+		margin: 0 0 35px;
+	}
+	.all_hdng h4 {
+		font-size: 28px;
+	}
+	.all_hdng h2 {
+		font-size: 60px;
+	}
+	.blg_area {
+		margin-top: 0;
+	}
+	.blg_user {
+    	max-width: 100%;
+	}
+	.blog_slide {
+		padding: 15px 10px;
+	}
+	.inp_submt {
+		font-size: 14px;
+	}
+	.client_icons_outer {
+		width: 33.33%;
+		margin-bottom: 20px;
+	}
+	.client_row h3 {
+		font-size: 20px;
+		margin-bottom: 15px;
+		letter-spacing: 2px;
+	}
+	.our_partnership {
+		padding: 45px 0;
+	}
+	.client_holder_main .basic_btn {
+		bottom: -70px;
+	}
+	.all_slider {
+		padding: 20px 0px;
+		margin-bottom: 30px;
+	}
+	.video_slider, .blog_slider  {
+		padding: 0 30px;
+	}
+	.video_slider .slick-arrow.slick-prev, .blog_slider .slick-arrow.slick-prev {
+		left: -10px;
+	}
+	.video_slider .slick-arrow, .blog_slider .slick-arrow {
+		right: -10px;
+	}
+
+}
+
+@media (max-width: 575px) {
+	.time_box{
+		height:65px;
+		font-size: 30px;
+	}
+	.numbr_hdng h1 {
+		font-size: 110px;
+	}
+	.numbr_hdng h1 span {
+		font-size: 25px;
+		top: 15px;
+		right: -15px;
+	}
+	.text_content h3 {
+		font-size: 18px;
+	}
+	.text_content h2 {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.text_content h5 {
+		font-size: 14px;
+		margin-top: 5px;
+	}
+	.inp_field {
+        width: 100%;
+        line-height: 45px;
+    }
+    .inp_submt {
+        width: 100%;
+        line-height: 45px;
+        margin-top:10px;
+    }
+    .subscribe_inp {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .footer_top h2 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    .footer_top {
+        padding: 30px 0 25px;
+    }
+	.speaker_area {
+		padding: 20px 0;
+	}
+	.txt_itm h6 {
+		font-size: 16px;
+		line-height: 22px;
+		margin-bottom: 5px;
+	}
+	.txt_itm h5 {
+		font-size: 15px;
+		margin-bottom: 5px;
+	}
+	.txt_itm p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.dtls_slider_area {
+    	padding: 10px;
+	}
+	.all_hdng h4 {
+		font-size: 25px;
+	}
+	.all_hdng h2 {
+		font-size: 50px;
+	}
+	.accordin_pannl {
+		padding: 10px 0 0;
+	}
+	.accr_para p {
+		font-size: 14px;
+		line-height: 22px;
+		max-width: 100%;
+	}
+	.accor_bxContent {
+		padding-top: 10px;
+	}
+	.content_row {
+		margin-bottom: 5px;
+	}
+	.content_text p span {
+    	font-size: 15px;
+	}
+	.sptep_row li:last-child {
+		width: auto;
+	}
+	.header_outer {
+		padding: 10px 10px;
+	}
+	.header_outer .navbar-brand{
+		width: 30%;
+	}
+	.txt_slider .slick-arrow {
+		bottom: 0;
+	}
+	.venue_details h3 {
+		margin-bottom: 5px;
+		font-size: 25px;
+	}
+	.venue_details h5 {
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+	.venue_details li {
+		padding-left: 30px;
+	}
+	.venue_details .icn {
+		font-size: 20px;
+	}
+	.headng {
+		margin-bottom: 5px;
+		font-size: 18px;
+	}
+	.venue_details ul li em {
+		font-size: 14px;
+	}
+	.where_to_find {
+		padding: 55px 0 25px;
+	}
+	.navbar-toggler-icon em {
+		width: 20px;
+		margin: 0 auto;
+		margin-bottom: 3px;
+	}
+	.navbar-toggler {
+		width: 40px;
+		height: 40px;
+	}
+	.navbar-toggler-icon {
+		padding-top: 10px;
+	}
+}
+
+@media (max-width: 480px) {
+	.footer_inner_bottom {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .footer_bottom {
+        padding: 10px 0;
+    }
+	.cainix_link {
+		margin-bottom: 5px;
+	}
+	.footer_inner_bottom p {
+		width: 100%;
+		text-align: center;
+	}
+	.venue_details h3 {
+		margin-bottom: 5px;
+		font-size: 20px;
+	}
+	.venue_details h5 {
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+	.venue_details li {
+		padding-left: 30px;
+	}
+	.headng {
+		margin-bottom: 5px;
+		font-size: 18px;
+	}
+	.venue_details .icn {
+		font-size: 20px;
+	}
+	.venue_details ul li em, .venue_details ul li a {
+		font-size: 14px;
+	}
+	.client_icons_outer {
+		width: 50%;
+		margin-bottom: 10px;
+	}
+	.client_row h3 {
+		font-size: 18px;
+		margin-bottom: 10px;
+		letter-spacing: 1px;
+	}
+	.client_holder_main .basic_btn {
+		bottom: 0;
+		margin-top: 15px;
+	}
+	.agenda_lftPnnl {
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	.agenda_rghtPnnl {
+		width: 100%;
+	}
+	.all_slider {
+		margin-bottom: 15px;
+	}
+	.all_slider {
+		padding: 10px 0px;
+	}
+	.client_holder_main .basic_btn {
+		font-size: 12px;
+		padding: 0px 10px;
+		letter-spacing: 0;
+	}
+	.where_to_find {
+		padding: 25px 0;
+	}
+	.our_partnership {
+		padding: 25px 0;
+	}
+	.txt_slider .slick-arrow {
+		background-size: 8px;
+	}
+	.hard_area {
+		padding: 15px 0;
+	}
+	.video_slide {
+    	-webkit-box-shadow: 0px 5px 3px 0px rgba(69,68,68,0.11);
+    	box-shadow: 0px 5px 3px 0px rgba(69,68,68,0.11);
+	}
+	.txt_slider .slick-arrow.slick-prev {
+		left: 35%;
+	}
+	.video_slider, .blog_slider {
+		padding: 0 20px;
+	}
+	.venue_details p {
+		font-size: 14px;
+		margin-bottom: 15px;
+	}
+	.footer_top h2 {
+		font-size: 22px;
+	}
+	.footer_top {
+		padding: 20px 0;
+	}
+	.all_hdng h2 {
+		font-size: 42px;
+	}
+	.all_hdng h4 {
+		font-size: 20px;
+	}
+	.hard_area .container-fluid{
+		padding: 0;
+	}
+	.video_slider .slick-arrow, .blog_slider .slick-arrow {
+		width: 35px;
+		height: 35px;
+	}
+	.slide_itm {
+		padding: 0 5px;
+	}
+	.numbr_hdng h1 {
+		font-size: 95px;
+	}
+	.text_content h3 {
+		font-size: 15px;
+	}
+	.text_content h2 {
+		font-size: 22px;
+		line-height: 22px;
+	}
+	.time_box {
+		height: 55px;
+		font-size: 25px;
+	}
+	.days_area h2 {
+		font-size: 22px;
+	}
+	.days_area h5 {
+		font-size: 18px;
+	}
+	.navbar-toggler-icon em {
+		width: 20px;
+		margin: 0 auto;
+		margin-bottom: 3px;
+	}
+	.navbar-toggler {
+		width: 35px;
+		height: 35px;
+	}
+	.navbar-toggler-icon {
+		padding-top: 8px;
+	}
+}
+
+@media (max-width: 420px) {
+   .numbr_hdng h1 {
+		font-size: 75px;
+	}
+	.text_content h3 {
+		font-size: 16px;
+	}
+	.text_content h2 {
+		font-size: 20px;
+		line-height: 25px;
+	}
+	.text_content {
+		margin-bottom: 8px;
+	}
+	.time_box{
+		margin-right: 10px;
+	}
+	.footer_top h2 {
+		font-size: 20px;
+	}
+	.speaker_outer .col-6 {
+		max-width: 100%;
+		-webkit-box-flex: 0;
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+	}
+	.sptep_row.nav-tabs li .nav-link {
+		font-size: 15px;
+	}
+	.sptep_row.nav-tabs li .nav-link.active {
+		height: 40px;
+		width: 40px;
+		border: 2px solid #fff;
+		font-size: 20px;
+	}
+	.days_area h2 {
+		font-size: 18px;
+	}
+	.days_area h5 {
+		font-size: 15px;
+	}
+	.all_hdng {
+		margin-bottom: 10px;
+	}
+	.slide_itm{
+		padding: 0;
+	}
+	.speaker_outer .col-lg-3 {
+		margin-bottom: 10px;
+	}
+	.basic_btn {
+		font-size: 12px;
+		line-height: 40px;
+		min-width: auto;
+	}
+	.txt_slider .slick-arrow.slick-next {
+		right: 35%;
+		left: inherit;
+	}
+	.video_slider .slick-arrow.slick-prev, .blog_slider .slick-arrow.slick-prev {
+		left: -15px;
+	}
+	.video_slider .slick-arrow, .blog_slider .slick-arrow {
+		right: -15px;
+	}
+	.all_hdng h2 {
+		font-size: 32px;
+	}
+	.all_hdng h4 {
+		font-size: 18px;
+	}
+	.blg_dtls h6 {
+		font-size: 14px;
+		line-height: 18px;
+		margin-bottom: 5px;
+	}
+	.blg_dtls p {
+		font-size: 14px;
+		line-height: 18px;
+	}
+	.our_partnership {
+		padding: 10px 0;
+	}
+	.client_holder_main .basic_btn {
+		font-size: 9px;
+	}
+	.where_to_find {
+		padding: 15px 0;
+	}
+	.venue_details h3 {
+		font-size: 16px;
+	}
+	.venue_details h5 {
+		font-size: 15px;
+	}
+	.venue_details p {
+		font-size: 13px;
+	}
+	.venue_details li {
+		padding-left: 25px;
+	}
+	.headng {
+		font-size: 16px;
+	}
+	.venue_details .icn {
+		font-size: 18px;
+	}
+	.venue_details ul li em, .venue_details ul li a {
+		font-size: 13px;
+	}
+	.footer_top h2 {
+		font-size: 18px;
+		margin-bottom: 8px;
+	}
+	.footer_top {
+		padding: 10px 0;
+	}
+	.tgl_plus {
+		height: 30px;
+		width: 30px;
+		background-size: 10px;
+	}
+	.hdng_pnnl a {
+		font-size: 14px;
+		line-height: 20px;
+		width: 80%;
+	}
+	.agenda_lftPnnl h3 {
+		font-size: 14px;
+	}
+	.agenda_rowInnr {
+		padding: 0 0 10px;
+	}
+	.content_row {
+		display: block;
+	}
+	.content_text p span {
+		display: block;
+	}
+	.accor_bxContent {
+		padding-top: 5px;
+	}
+}
+
+/* End */
